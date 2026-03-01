@@ -1,5 +1,4 @@
 # Introduction
-# Day 1 - 30DaysOfPython Challenge
 
 print("Hello World!")   # print hello world
 
@@ -23,3 +22,28 @@ print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
 print(type({'name': 'Asabeneh'}))  # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Tuple
+
+# ---------------------------------------------------------------------------------
+
+# Output
+
+Hello World!
+5
+2
+6
+5
+1
+6
+1.5
+9
+1
+1
+<class 'int'>
+<class 'float'>
+<class 'complex'>
+<class 'str'>
+<class 'list'>
+<class 'dict'>
+<class 'set'>
+
+# Vinay Hulsurkar aka VH24
